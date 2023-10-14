@@ -1,0 +1,48 @@
+
+List<Map<String, dynamic>> booksList = [
+  {
+    'id': 'ISBN-2000',
+    'title': 'Think And Grow Rich',
+    'description': 'The Landmark Bestseller Now Revised And Updated For The 21St Century',
+    'Publisher': 'Tarcherperigee',
+    'language': 'English',
+    'copies': 20,
+    'price': '40.75 SAR',
+  },
+  {
+    'id': 'ISBN-2001',
+    'title': 'Atomic Habits',
+    'description': 'An Easy & Proven Way To Build Good Habits & Break Bad Ones',
+    'Publisher': 'Avery Publishing Group',
+    'language': 'English',
+    'copies': 30,
+    'price': '45.50 SAR',
+  },
+  {
+    'id': 'ISBN-2002',
+    'title': 'Deep Work',
+    'description': 'Rules For Focused Success In A Distracted World',
+    'Publisher': 'Piatkus Books',
+    'language': 'English',
+    'copies': 40,
+    'price': '65.00 SAR',
+  },
+  {
+    'id': 'ISBN-2003',
+    'title': 'Start With Why',
+    'description': 'How Great Leaders Inspire Everyone To Take Action',
+    'Publisher': 'Portfolio',
+    'language': 'English',
+    'copies': 50,
+    'price': '52.00 SAR',
+  },
+  {
+    'id': 'ISBN-2004',
+    'title': 'Leaders Eat Last',
+    'description': 'Why Some Teams Pull Together and Others Do Not',
+    'Publisher': 'Portfolio',
+    'language': 'English',
+    'copies': 60,
+    'price': '61.00 SAR',
+  },
+];
